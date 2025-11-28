@@ -1,1 +1,1 @@
-this folder contains the product application
+this folder contains the product mvn project
